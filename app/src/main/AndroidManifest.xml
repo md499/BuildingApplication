@@ -16,7 +16,7 @@
         android:label="BuildingApplication"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BuildingApplication"
+        android:theme="@style/Base.Theme.BuildingApplication"
         tools:targetApi="31">
 
         <!-- LoginActivity is the launcher -->
