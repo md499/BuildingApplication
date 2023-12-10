@@ -5,4 +5,10 @@
     <string name="password">password</string>
     <string name="login">Login</string>
     <string name="register">Register</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="save_image">Save Image</string>
+    <string name="retrieve_image">Retrieve Image</string>
+    <string name="sign_out">Sign out</string>
+    <string name="pick_photo">Pick Photo</string>
+    <string name="take_picture">Take Picture</string>
 </resources>
